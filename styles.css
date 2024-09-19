@@ -1,9 +1,14 @@
 body{
-  background: #85e885;
+  background: #fff7d2;
   font-family:"Times New Roman", Times, serif;
   margin: 40px;
 }
 h1{
   text-align: center;
-  color: #1c731c;
+  color: #005729;
 }
+h2{
+  text-align: left;
+  color: #00803c;
+}
+
